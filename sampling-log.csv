@@ -1,0 +1,2 @@
+month,report_ref,alert_type,why_chosen,glossary_code_ok,prohibited_act_clear,specific_ok,reader_can_act,gap_cause,fix_owner
+2026-11,EXAMPLE-001 (delete this row),Cash deposits,Chosen as a hard-to-write case,yes,yes,no,partly,Timeline of deposits not visible to the analyst,Operations lead
